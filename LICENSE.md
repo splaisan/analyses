@@ -1,6 +1,6 @@
 <p><a href="http://www.nucleomics.be/" target="_blank"><img src="http://www.nucleomics.be/wp-content/uploads/nucleomics_core_rgb_pos_wout-e1540590522530.png" width=200 height=78\></a></p>
 
-This work is owned by the **<a href="https://www.nucleomics.be" target="_blank">Nucleomics Core</a>**; the 'sequencing' facility of **<a href="http://www.vib.be" target="_blank">VIB</a>**.
+This work is owned by the **<a href="http://www.nucleomics.be" target="_blank">Nucleomics Core</a>**; the 'sequencing' facility of **<a href="http://www.vib.be" target="_blank">VIB</a>**.
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License
 
